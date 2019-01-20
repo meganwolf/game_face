@@ -1,10 +1,10 @@
 # gameface1
-
-## Requirements
-Python 3
+*Pygame controlled by eyebrow movement*
+### Requirements
+python3
 opencv-python
-face-recognition
+face-recognition https://github.com/ageitgey/face_recognition
 dlib
 pygame
-Pillow
+pillow
 
